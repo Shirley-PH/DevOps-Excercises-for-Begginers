@@ -8,6 +8,7 @@ DevOps brings together people, processes, and tools to help build, set up, and d
 
 | Project | What it covers | Guide |
 | --- | --- | --- |
+| **eMart App** | Building and running a multi-container application with Docker Compose, checking service status, and documenting a Java API image troubleshooting example. | [Open the project guide](EMartApp/Readme.md) |
 | **Tween Agency website** | Hosting a website in a virtual machine, first manually and then with automated setup. | [Open the project guide](Agency/README.md) |
 | **VProfile deployment lab** | Setting up a Java web application with separate virtual machines for the web server, application server, database, cache, and message broker. Includes manual and automated approaches. | [Open the project guide](VProfile/README.md) |
 
